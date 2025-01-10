@@ -1,0 +1,494 @@
+,Distinction,Name,Location,Price,Cuisine
+0,2 Star,Sushi Masaki Saito,"Toronto, Canada",$$$$,Japanese
+1,2 Star,Xin Rong Ji,"Chengdu, China Mainland",¥¥¥¥,Taizhou
+2,2 Star,Yu Zhi Lan,"Chengdu, China Mainland",¥¥¥¥,Sichuan
+3,2 Star,Molino de Urdániz,"Taipei, Taiwan",$$$$,Spanish Contemporary
+4,2 Star,RAW,"Taipei, Taiwan",$$$$,Innovative
+5,2 Star,logy,"Taipei, Taiwan",$$$,Asian Contemporary
+6,2 Star,Mudan,"Taipei, Taiwan",$$$$,Tempura
+7,2 Star,L'Atelier de Joël Robuchon,"Taipei, Taiwan",$$$$,French Contemporary
+8,2 Star,Sons & Daughters,"San Francisco, USA",$$$$,Contemporary
+9,2 Star,Hayato,"Los Angeles, USA",$$$$,Japanese
+10,2 Star,Birdsong,"San Francisco, USA",$$$$,Contemporary
+11,2 Star,Vespertine,"Culver City, USA",$$$$,Contemporary
+12,2 Star,Providence,"Hollywood, USA",$$$$,Seafood
+13,2 Star,Aubergine,"Carmel-by-the-Sea, USA",$$$$,Contemporary
+14,2 Star,Commis,"Oakland, USA",$$$$,Contemporary
+15,2 Star,Acquerello,"San Francisco, USA",$$$$,Italian
+16,2 Star,Mélisse,"Santa Monica, USA",$$$$,Modern French
+17,2 Star,Lazy Bear,"San Francisco, USA",$$$$,Contemporary
+18,2 Star,Californios,"San Francisco, USA",$$$$,Mexican
+19,2 Star,Saison,"San Francisco, USA",$$$$,Californian
+20,2 Star,Harbor House,"Elk, USA",$$$$,Californian
+21,2 Star,Trèsind Studio,Dubai,$$$$,Indian
+22,2 Star,STAY by Yannick Alléno,Dubai,$$$$,French
+23,2 Star,Il Ristorante-Niko Romito,Dubai,$$$$,Italian
+24,2 Star,Row on 45,Dubai,$$$$,Creative
+25,2 Star,Agli Amici Rovinj,"Rovinj, Croatia",€€€€,Italian Contemporary
+26,2 Star,Meta,Singapore,$$$,Innovative
+27,2 Star,Jaan by Kirk Westaway,Singapore,$$$,British Contemporary
+28,2 Star,Saint Pierre,Singapore,$$$$,French Contemporary
+29,2 Star,Shoukouwa,Singapore,$$$$,Sushi
+30,2 Star,Cloudstreet,Singapore,$$$$,Innovative
+31,2 Star,Thevar,Singapore,$$$$,Innovative
+32,2 Star,Bottiglieria 1881,"Krakow, Poland",€€€€,Creative
+33,2 Star,Milka,"Kranjska Gora, Slovenia",€€€€,Creative
+34,2 Star,Taian Table,"Guangzhou, China Mainland",¥¥¥¥,European Contemporary
+35,2 Star,Jiang by Chef Fei,"Guangzhou, China Mainland",¥¥¥,Cantonese
+36,2 Star,Imperial Treasure Fine Chinese Cuisine,"Guangzhou, China Mainland",¥¥¥,Cantonese
+37,2 Star,Frederikshøj,"Aarhus, Denmark",€€€€,Creative
+38,2 Star,Kadeau Copenhagen,"Copenhagen, Denmark",€€€€,Creative
+39,2 Star,AIRA,"Stockholm, Sweden",€€€€,Modern Cuisine
+40,2 Star,Kong Hans Kælder,"Copenhagen, Denmark",€€€€,Modern French
+41,2 Star,Vollmers,"Malmo, Sweden",€€€€,Contemporary
+42,2 Star,Kontrast,"Oslo, Norway",€€€€,Scandinavian
+43,2 Star,Palace,"Helsinki, Finland",€€€€,Modern Cuisine
+44,2 Star,Henne Kirkeby Kro,"Henne, Denmark",€€€€,Classic Cuisine
+45,2 Star,Koan,"Copenhagen, Denmark",€€€€,Creative
+46,2 Star,Aloë,"Stockholm, Sweden",€€€€,Creative
+47,2 Star,Alchemist,"Copenhagen, Denmark",€€€€,Innovative
+48,2 Star,a|o|c,"Copenhagen, Denmark",€€€€,Modern Cuisine
+49,2 Star,VYN,"Simrishamn, Sweden",€€€€,Creative
+50,2 Star,180° by Matthias Diether,"Tallinn, Estonia",€€€€,Creative
+51,2 Star,Oro,"Rio de Janeiro, Brazil",$$$$,Creative
+52,2 Star,D.O.M.,"São Paulo, Brazil",$$$$,Creative
+53,2 Star,Evvai,"São Paulo, Brazil",$$$$,Modern Cuisine
+54,2 Star,Tuju,"São Paulo, Brazil",$$$$,Creative
+55,2 Star,Oteque,"Rio de Janeiro, Brazil",$$$$,Modern Cuisine
+56,2 Star,Lasai,"Rio de Janeiro, Brazil",$$$$,Modern Cuisine
+57,2 Star,Pujol,"Miguel Hildalgo, Mexico",$$$$,Mexican
+58,2 Star,Quintonil,"Miguel Hildalgo, Mexico",$$$$,Contemporary
+59,2 Star,Oryori Hanagaki,"Nara, Japan",¥¥¥,Japanese
+60,2 Star,Tsukumo,"Nara, Japan",¥¥¥,Japanese
+61,2 Star,NARA NIKON,"Nara, Japan",¥¥¥,Japanese
+62,2 Star,akordu,"Nara, Japan",¥¥¥,Innovative
+63,2 Star,L'Atelier de Joël Robuchon Miami,"Miami, USA",$$$$,French
+64,2 Star,Koryu,"Osaka, Japan",¥¥¥¥,Japanese
+65,2 Star,Tenjimbashi Aoki,"Osaka, Japan",¥¥¥¥,Japanese
+66,2 Star,Gion Maruyama,"Kyoto, Japan",¥¥¥¥,Japanese
+67,2 Star,Miyamoto,"Osaka, Japan",¥¥¥,Japanese
+68,2 Star,Sojiki Nakahigashi,"Kyoto, Japan",¥¥¥,Japanese
+69,2 Star,La Cime,"Osaka, Japan",¥¥¥¥,French
+70,2 Star,Fujiya 1935,"Osaka, Japan",¥¥¥¥,Innovative
+71,2 Star,Ryō-shō,"Kyoto, Japan",¥¥¥¥,Japanese
+72,2 Star,Wagokoro Izumi,"Kyoto, Japan",¥¥¥,Japanese
+73,2 Star,Gion Matayoshi,"Kyoto, Japan",¥¥¥¥,Japanese
+74,2 Star,Yusokuryori Mankamero,"Kyoto, Japan",¥¥¥¥,Japanese
+75,2 Star,VELROSIER,"Kyoto, Japan",¥¥¥,Chinese
+76,2 Star,Ogata,"Kyoto, Japan",¥¥¥¥,Japanese
+77,2 Star,Sushi Harasho,"Osaka, Japan",¥¥¥,Sushi
+78,2 Star,Gion Nishikawa,"Kyoto, Japan",¥¥¥¥,Japanese
+79,2 Star,Shimmonzen Yonemura,"Kyoto, Japan",¥¥¥,Innovative
+80,2 Star,Kyokaiseki Kichisen,"Kyoto, Japan",¥¥¥¥,Japanese
+81,2 Star,Yugen,"Osaka, Japan",¥¥¥,Japanese
+82,2 Star,Otagi,"Kyoto, Japan",¥¥¥¥,Japanese
+83,2 Star,Shunsaiten Tsuchiya,"Osaka, Japan",¥¥¥,Tempura
+84,2 Star,Miyamaso,"Kyoto, Japan",¥¥¥,Japanese
+85,2 Star,Kikunoi Roan,"Kyoto, Japan",¥¥¥,Japanese
+86,2 Star,KAHALA,"Osaka, Japan",¥¥¥¥,Innovative
+87,2 Star,Kenninji Gion Maruyama,"Kyoto, Japan",¥¥¥¥,Japanese
+88,2 Star,Numata,"Osaka, Japan",¥¥¥¥,Tempura
+89,2 Star,Sumibi Kappo Ifuki,"Kyoto, Japan",¥¥¥¥,Japanese
+90,2 Star,Kodaiji Wakuden,"Kyoto, Japan",¥¥¥¥,Japanese
+91,2 Star,ION Harbour by Simon Rogan,"Valletta, Malta",€€€€,Mediterranean Cuisine
+92,2 Star,Lafleur,"Frankfurt on the Main, Germany",€€€€,Modern French
+93,2 Star,IKIGAI,"Krün, Germany",€€€€,Modern Cuisine
+94,2 Star,Lakeside,"Hamburg, Germany",€€€€,Modern Cuisine
+95,2 Star,Ox & Klee,"Cologne, Germany",€€€€,Modern Cuisine
+96,2 Star,Ösch Noir,"Donaueschingen, Germany",€€€€,Modern Cuisine
+97,2 Star,Courtier,"Weissenhaus, Germany",€€€€,Creative
+98,2 Star,AURA by Alexander Herrmann & Tobias Bätz,"Wirsberg, Germany",€€€€,Creative
+99,2 Star,Mühle,"Schluchsee, Germany",€€€€,Modern French
+100,2 Star,PUR,"Berchtesgaden, Germany",€€€€,Modern Cuisine
+101,2 Star,Meierei Dirk Luther,"Glücksburg, Germany",€€€€,Classic Cuisine
+102,2 Star,Ophelia,"Constance, Germany",€€€€,Creative French
+103,2 Star,Haerlin,"Hamburg, Germany",€€€€,Creative French
+104,2 Star,etz,"Nuremberg, Germany",€€€€,Creative
+105,2 Star,Tim Raue,"Berlin, Germany",€€€€,Asian
+106,2 Star,Lorenz Adlon Esszimmer,"Berlin, Germany",€€€€,Creative
+107,2 Star,CODA Dessert Dining,"Berlin, Germany",€€€€,Creative
+108,2 Star,Jante,"Hanover, Germany",€€€€,Creative
+109,2 Star,Le Cerf,"Zweiflingen, Germany",€€€€,Classic French
+110,2 Star,bianc,"Hamburg, Germany",€€€€,Mediterranean Cuisine
+111,2 Star,100/200 Kitchen,"Hamburg, Germany",€€€€,Creative
+112,2 Star,FACIL,"Berlin, Germany",€€€€,Creative
+113,2 Star,Tohru in der Schreiberei,"Munich, Germany",€€€€,Modern Cuisine
+114,2 Star,Tantris,"Munich, Germany",€€€€,French Contemporary
+115,2 Star,L.A. Jordan,"Deidesheim, Germany",€€€€,Creative
+116,2 Star,Horváth,"Berlin, Germany",€€€€,Creative
+117,2 Star,Votum,"Hanover, Germany",€€€€,Creative
+118,2 Star,Coeur D'Artichaut,"Münster, Germany",€€€€,Modern French
+119,2 Star,Atelier,"Munich, Germany",€€€€,Creative French
+120,2 Star,ammolite - The Lighthouse Restaurant,"Rust, Germany",€€€€,Modern Cuisine
+121,2 Star,GästeHaus Klaus Erfort,"Saarbrücken, Germany",€€€€,Classic French
+122,2 Star,Esplanade,"Saarbrücken, Germany",€€€€,Classic Cuisine
+123,2 Star,Essigbrätlein,"Nuremberg, Germany",€€€€,Innovative
+124,2 Star,KOMU,"Munich, Germany",€€€€,Classic Cuisine
+125,2 Star,Obendorfers Eisvogel,"Neunburg vorm Wald, Germany",€€€€,Creative
+126,2 Star,Vendôme,"Bergisch Gladbach, Germany",€€€€,Creative
+127,2 Star,OPUS V,"Mannheim, Germany",€€€€,Modern Cuisine
+128,2 Star,Speisemeisterei,"Stuttgart, Germany",€€€€,Creative
+129,2 Star,Söl'ring Hof,"Rantum, Germany",€€€€,Modern Cuisine
+130,2 Star,EssZimmer,"Munich, Germany",€€€€,Modern French
+131,2 Star,Steinheuers Restaurant Zur Alten Post,"Bad Neuenahr-Ahrweiler, Germany",€€€€,Classic French
+132,2 Star,sein,"Karlsruhe, Germany",€€€€,Modern Cuisine
+133,2 Star,Gourmetrestaurant Dichter,"Rottach-Egern, Germany",€€€€,Creative French
+134,2 Star,AUGUST,"Augsburg, Germany",€€€€,Creative
+135,2 Star,Le Pavillon,"Bad Peterstal, Germany",€€€€,Classic French
+136,2 Star,Hirschen,"Sulzburg, Germany",€€€€,Creative
+137,2 Star,LOUIS restaurant,"Saarlouis, Germany",€€€€,Creative
+138,2 Star,Alois - Dallmayr Fine Dining,"Munich, Germany",€€€€,Creative
+139,2 Star,Maison Ruggieri,"Paris, France",€€€€,Modern Cuisine
+140,2 Star,Sylvestre Wahid - Les Grandes Alpes,"Courchevel, France",€€€€,Creative
+141,2 Star,La Table des Amis by Christophe Bacquié,"Bonnieux, France",€€€€,Modern Cuisine
+142,2 Star,La Voile - La Réserve Ramatuelle,"Ramatuelle, France",€€€€,Modern Cuisine
+143,2 Star,Les Ambassadeurs by Christophe Cussac,"Monaco, France",€€€€,Modern Cuisine
+144,2 Star,L'Abysse au Pavillon Ledoyen,"Paris, France",€€€€,Japanese
+145,2 Star,Anne de Bretagne,"La Plaine-sur-Mer, France",€€€€,Creative
+146,2 Star,Le Clarence,"Paris, France",€€€€,Creative
+147,2 Star,La Scène,"Paris, France",€€€€,Modern Cuisine
+148,2 Star,La Table Lionel Giraud,"Narbonne, France",€€€€,Creative
+149,2 Star,L'Auberge des Glazicks,"Plomodiern, France",€€€€,Creative
+150,2 Star,Flaveur,"Nice, France",€€€€,Creative
+151,2 Star,L'Oiseau Blanc,"Paris, France",€€€€,Creative
+152,2 Star,Duende,"Nîmes, France",€€€€,Modern Cuisine
+153,2 Star,Restaurant Le Meurice Alain Ducasse,"Paris, France",€€€€,Creative
+154,2 Star,La Grenouillère,"La Madelaine-sous-Montreuil, France",€€€€,Creative
+155,2 Star,Lalique,"Bommes, France",€€€€,Modern Cuisine
+156,2 Star,La Côte d'Or,"Saulieu, France",€€€€,Modern Cuisine
+157,2 Star,Racine,"Reims, France",€€€€,Creative
+158,2 Star,Maison Aribert,"Uriage-les-Bains, France",€€€€,Creative
+159,2 Star,La Fourchette des Ducs,"Obernai, France",€€€€,Modern Cuisine
+160,2 Star,Michel Kayser - Restaurant Alexandre,"Garons, France",€€€€,Modern Cuisine
+161,2 Star,Py-r,"Toulouse, France",€€€€,Creative
+162,2 Star,Marsan par Hélène Darroze,"Paris, France",€€€€,Modern Cuisine
+163,2 Star,Le Jules Verne,"Paris, France",€€€€,Modern Cuisine
+164,2 Star,David Toutain,"Paris, France",€€€€,Creative
+165,2 Star,Le Puits Saint Jacques,"Pujaudran, France",€€€€,Modern Cuisine
+166,2 Star,Auberge de l'Ill,"Illhaeusern, France",€€€€,Classic Cuisine
+167,2 Star,La Table d'Olivier Nasti,"Kaysersberg, France",€€€€,Creative
+168,2 Star,JY'S,"Colmar, France",€€€€,Creative
+169,2 Star,Serge Vieira,"Chaudes-Aigues, France",€€€€,Creative
+170,2 Star,Le Pressoir d'Argent - Gordon Ramsay,"Bordeaux, France",€€€€,Modern Cuisine
+171,2 Star,Château de Beaulieu - Christophe Dufossé,"Busnes, France",€€€€,Modern Cuisine
+172,2 Star,Le Grand Restaurant - Jean-François Piège,"Paris, France",€€€€,Creative
+173,2 Star,La Côte Saint-Jacques,"Joigny, France",€€€€,Modern Cuisine
+174,2 Star,Guy Savoy,"Paris, France",€€€€,Modern Cuisine
+175,2 Star,L'Orangerie,"Paris, France",€€€€,Modern Cuisine
+176,2 Star,Table - Bruno Verjus,"Paris, France",€€€€,Modern Cuisine
+177,2 Star,Jean Sulpice,"Talloires-Montmin, France",€€€€,Creative
+178,2 Star,La Grand'Vigne - Les Sources de Caudalie,"Martillac, France",€€€€,Modern Cuisine
+179,2 Star,Le Pré - Xavier Beaudiment,"Clermont-Ferrand, France",€€€€,Creative
+180,2 Star,Bras,"Laguiole, France",€€€€,Creative
+181,2 Star,L'Auberge de Montmin,"Talloires-Montmin, France",€€€€,Creative
+182,2 Star,Le Taillevent,"Paris, France",€€€€,Classic Cuisine
+183,2 Star,La Merise,"Laubach, France",€€€€,Modern Cuisine
+184,2 Star,Palais Royal Restaurant,"Paris, France",€€€€,Creative
+185,2 Star,Les Morainières,"Jongieux, France",€€€€,Creative
+186,2 Star,Cédric Burtin,"Saint-Rémy, France",€€€€,Creative
+187,2 Star,Villa René Lalique,"Wingen-sur-Moder, France",€€€€,Creative
+188,2 Star,Le Sarkara,"Courchevel, France",€€€€,Creative
+189,2 Star,René et Maxime Meilleur,"Saint-Martin-de-Belleville, France",€€€€,Creative
+190,2 Star,Le Parc Les Crayères,"Reims, France",€€€€,Creative
+191,2 Star,Le Skiff Club,"Pyla-sur-Mer, France",€€€€,Modern Cuisine
+192,2 Star,Blue Bay Marcel Ravin,"Monaco, France",€€€€,Creative
+193,2 Star,Takao Takano,"Lyon, France",€€€€,Creative
+194,2 Star,La Table de Pavie,"Saint-Emilion, France",€€€€,Creative
+195,2 Star,Maison Ronan Kervarrec,"Saint-Grégoire, France",€€€€,Modern Cuisine
+196,2 Star,Paul Bocuse,"Collonges-au-Mont-d'Or, France",€€€€,Classic Cuisine
+197,2 Star,La Chèvre d'Or,"Èze, France",€€€€,Creative
+198,2 Star,Relais de la Poste,"Magescq, France",€€€€,Classic Cuisine
+199,2 Star,Mère Brazier,"Lyon, France",€€€€,Classic Cuisine
+200,2 Star,Christopher Coutanceau,"La Rochelle, France",€€€€,Seafood
+201,2 Star,Maison Rostang,"Paris, France",€€€€,Classic Cuisine
+202,2 Star,Le Neuvième Art,"Lyon, France",€€€€,Creative
+203,2 Star,William Frachot,"Dijon, France",€€€€,Creative
+204,2 Star,Cyril Attrazic,"Aumont-Aubrac, France",€€€€,Creative
+205,2 Star,Le Chabichou by Stéphane Buron,"Courchevel, France",€€€€,Modern Cuisine
+206,2 Star,La Table de Franck Putelat,"Carcassonne, France",€€€€,Modern Cuisine
+207,2 Star,Christophe Hay - Fleur de Loire,"Blois, France",€€€€,Modern Cuisine
+208,2 Star,Le Coquillage,"Saint-Méloir-des-Ondes, France",€€€€,Seafood
+209,2 Star,La Table de Yoann Conte,"Veyrier-du-Lac, France",€€€€,Creative
+210,2 Star,Maison Benoît Vidal,"Annecy, France",€€€€,Creative
+211,2 Star,Casadelmar,"Porto-Vecchio, France",€€€€,Modern Cuisine
+212,2 Star,La Villa Archange,"Le Cannet, France",€€€€,Modern Cuisine
+213,2 Star,La Pyramide - Maison Henriroux,"Vienne, France",€€€€,Modern Cuisine
+214,2 Star,Rùn,"Hong Kong, Hong Kong SAR China",$$$,Cantonese
+215,2 Star,The Eight,Macau,$$$$,Cantonese
+216,2 Star,Amber,"Hong Kong, Hong Kong SAR China",$$$$,French Contemporary
+217,2 Star,L'Envol,"Hong Kong, Hong Kong SAR China",$$$$,French Contemporary
+218,2 Star,Feng Wei Ju,Macau,$$,Hunanese
+219,2 Star,Tin Lung Heen,"Hong Kong, Hong Kong SAR China",$$$,Cantonese
+220,2 Star,Tate,"Hong Kong, Hong Kong SAR China",$$$$,Innovative
+221,2 Star,Ying Jee Club,"Hong Kong, Hong Kong SAR China",$$$,Cantonese
+222,2 Star,The Huaiyang Garden,Macau,$$$,Huaiyang
+223,2 Star,Lung King Heen,"Hong Kong, Hong Kong SAR China",$$$,Cantonese
+224,2 Star,Alain Ducasse at Morpheus,Macau,$$$$,French Contemporary
+225,2 Star,Bo Innovation,"Hong Kong, Hong Kong SAR China",$$$,Innovative
+226,2 Star,Noi by Paulo Airaudo,"Hong Kong, Hong Kong SAR China",$$$$,Italian Contemporary
+227,2 Star,Wing Lei,Macau,$$$,Cantonese
+228,2 Star,Lai Ching Heen,"Hong Kong, Hong Kong SAR China",$$$,Cantonese
+229,2 Star,Arbor,"Hong Kong, Hong Kong SAR China",$$$$,Innovative
+230,2 Star,Mizumi (Macau),Macau,$$$$,Japanese
+231,2 Star,Octavium,"Hong Kong, Hong Kong SAR China",$$$$,Italian
+232,2 Star,The Yeatman,"Vila Nova de Gaia, Portugal",€€€€,Creative
+233,2 Star,Vila Joya,"Albufeira, Portugal",€€€€,Modern Cuisine
+234,2 Star,Antiqvvm,"Porto, Portugal",€€€€,Creative
+235,2 Star,Ocean,"Porches, Portugal",€€€€,Creative
+236,2 Star,Alma,"Lisbon, Portugal",€€€€,Creative
+237,2 Star,Belcanto,"Lisbon, Portugal",€€€€,Creative
+238,2 Star,Casa de Chá da Boa Nova,"Leça da Palmeira, Portugal",€€€€,Seafood
+239,2 Star,Il Gallo d'Oro,"Funchal, Portugal",€€€€,Modern Cuisine
+240,2 Star,Ma Langue Sourit,"Oetrange, Luxembourg",€€€€,Modern Cuisine
+241,2 Star,L'Eau Vive,"Arbre, Belgium",€€€€,Modern French
+242,2 Star,Hertog Jan at Botanic,"Antwerpen, Belgium",€€€€,Creative
+243,2 Star,Colette - De Vijvers,"Averbode, Belgium",€€€€,Modern French
+244,2 Star,La Villa Lorraine by Yves Mattagne,"Brussels, Belgium",€€€€,Modern Cuisine
+245,2 Star,Vrijmoed,"Gent, Belgium",€€€€,Creative
+246,2 Star,Bozar Restaurant,"Brussels, Belgium",€€€€,Modern French
+247,2 Star,Slagmolen,"Opglabbeek, Belgium",€€€€,Traditional Cuisine
+248,2 Star,L'air du temps,"Liernu, Belgium",€€€€,Creative
+249,2 Star,Nuance,"Duffel, Belgium",€€€€,Creative
+250,2 Star,Le Chalet de la Forêt,"Uccle, Belgium",€€€€,Creative
+251,2 Star,Hof van Cleve - Floris Van Der Veken,"Kruishoutem, Belgium",€€€€,Creative
+252,2 Star,La Table de Maxime,"Our, Belgium",€€€€,Modern Cuisine
+253,2 Star,Ralf Berendsen,"Neerharen, Belgium",€€€€,Creative
+254,2 Star,Bartholomeus,"Heist, Belgium",€€€€,Modern Cuisine
+255,2 Star,Sir Kwinten,"Sint-Kwintens-Lennik, Belgium",€€€,Modern Cuisine
+256,2 Star,Castor,"Beveren-Leie, Belgium",€€€€,Modern French
+257,2 Star,La Paix,"Anderlecht, Belgium",€€€€,Asian Influences
+258,2 Star,d'Eugénie à Emilie,"Baudour, Belgium",€€€€,Classic French
+259,2 Star,Cuchara,"Lommel, Belgium",€€€€,Creative
+260,2 Star,La Durée,"Izegem, Belgium",€€€€,Creative
+261,2 Star,The Jane,"Antwerpen, Belgium",€€€€,Creative
+262,2 Star,De Jonkman,"Sint-Kruis, Belgium",€€€€,Creative
+263,2 Star,Kwonsooksoo,"Seoul, South Korea",₩₩₩₩,Korean
+264,2 Star,Mingles,"Seoul, South Korea",₩₩₩₩,Korean
+265,2 Star,La Yeon,"Seoul, South Korea",₩₩₩₩,Korean
+266,2 Star,Soigné,"Seoul, South Korea",₩₩₩₩,Innovative
+267,2 Star,Kojima,"Seoul, South Korea",₩₩₩₩,Sushi
+268,2 Star,Mitou,"Seoul, South Korea",₩₩₩₩,Japanese
+269,2 Star,alla Prima,"Seoul, South Korea",₩₩₩₩,Innovative
+270,2 Star,Restaurant Allen,"Seoul, South Korea",₩₩₩₩,Contemporary
+271,2 Star,Hand and Flowers,"Marlow, United Kingdom",££££,Modern British
+272,2 Star,Gymkhana,"London, United Kingdom",££££,Indian
+273,2 Star,Midsummer House,"Cambridge, United Kingdom",££££,Creative
+274,2 Star,The Glenturret Lalique,"Crieff, United Kingdom",££££,Modern Cuisine
+275,2 Star,Ynyshir,"Machynlleth, United Kingdom",££££,Creative
+276,2 Star,Restaurant Sat Bains,"Nottingham, United Kingdom",££££,Creative
+277,2 Star,Restaurant Andrew Fairlie,"Auchterarder, United Kingdom",££££,Modern French
+278,2 Star,Opheem,"Birmingham, United Kingdom",££££,Indian
+279,2 Star,"Le Manoir aux Quat' Saisons, a Belmond Hotel","Great Milton, United Kingdom",££££,French
+280,2 Star,A. Wong,"London, United Kingdom",££££,Chinese
+281,2 Star,Alex Dilling at Hotel Café Royal,"London, United Kingdom",££££,Modern French
+282,2 Star,Chapter One by Mickael Viljanen,"Dublin City, Ireland",$$$$,Modern Cuisine
+283,2 Star,Story,"London, United Kingdom",££££,Modern Cuisine
+284,2 Star,Liath,"Blackrock, Ireland",$$$$,Creative
+285,2 Star,La Dame de Pic London,"London, United Kingdom",££££,Modern French
+286,2 Star,The Clove Club,"London, United Kingdom",££££,Creative
+287,2 Star,Kitchen Table,"London, United Kingdom",££££,Modern Cuisine
+288,2 Star,Claude Bosi at Bibendum,"London, United Kingdom",££££,French
+289,2 Star,Terre,"Castlemartyr, Ireland",$$$$,Modern Cuisine
+290,2 Star,dede,"Baltimore, Ireland",$$$$,Turkish
+291,2 Star,Patrick Guilbaud,"Dublin City, Ireland",$$$$,Modern French
+292,2 Star,Ikoyi,"London, United Kingdom",££££,Creative
+293,2 Star,Dinner by Heston Blumenthal,"London, United Kingdom",££££,Traditional British
+294,2 Star,Trivet,"London, United Kingdom",££££,Modern Cuisine
+295,2 Star,Moor Hall,"Aughton, United Kingdom",££££,Modern British
+296,2 Star,Da Terra,"London, United Kingdom",££££,Creative
+297,2 Star,Brooklands by Claude Bosi,"London, United Kingdom",££££,Modern Cuisine
+298,2 Star,Baan Tepa,"Bangkok, Thailand",฿฿฿฿,Thai contemporary
+299,2 Star,Chef's Table,"Bangkok, Thailand",฿฿฿฿,French Contemporary
+300,2 Star,Sühring,"Bangkok, Thailand",฿฿฿฿,German
+301,2 Star,Sorn,"Bangkok, Thailand",฿฿฿฿,Southern Thai
+302,2 Star,Gaa,"Bangkok, Thailand",฿฿฿฿,Indian
+303,2 Star,Mezzaluna,"Bangkok, Thailand",฿฿฿฿,French Contemporary
+304,2 Star,R-Haan,"Bangkok, Thailand",฿฿฿฿,Thai
+305,2 Star,Tempura Ginya,"Tokyo, Japan",¥¥¥¥,Tempura
+306,2 Star,Crony,"Tokyo, Japan",¥¥¥¥,French
+307,2 Star,ESqUISSE,"Tokyo, Japan",¥¥¥¥,French
+308,2 Star,Seisoka,"Tokyo, Japan",¥¥¥¥,Japanese
+309,2 Star,Kioicho Fukudaya,"Tokyo, Japan",¥¥¥¥,Japanese
+310,2 Star,Ginza Fukuju,"Tokyo, Japan",¥¥¥¥,Japanese
+311,2 Star,Florilège,"Tokyo, Japan",¥¥¥,French
+312,2 Star,Ginza Kojyu,"Tokyo, Japan",¥¥¥¥,Japanese
+313,2 Star,Den,"Tokyo, Japan",¥¥¥,Japanese
+314,2 Star,Sukiyabashi Jiro Roppongiten,"Tokyo, Japan",¥¥¥¥,Sushi
+315,2 Star,SÉZANNE,"Tokyo, Japan",¥¥¥¥,French
+316,2 Star,PRISMA,"Tokyo, Japan",¥¥¥¥,Italian
+317,2 Star,PIERRE GAGNAIRE,"Tokyo, Japan",¥¥¥¥,French
+318,2 Star,MAZ,"Tokyo, Japan",¥¥¥¥,Innovative
+319,2 Star,Myojaku,"Tokyo, Japan",¥¥¥¥,Japanese
+320,2 Star,HOMMAGE,"Tokyo, Japan",¥¥¥¥,French
+321,2 Star,LA TABLE de Joël Robuchon,"Tokyo, Japan",¥¥¥,French
+322,2 Star,Nabeno-Ism,"Tokyo, Japan",¥¥¥¥,French
+323,2 Star,Seizan,"Tokyo, Japan",¥¥¥¥,Japanese
+324,2 Star,Tempura Kondo,"Tokyo, Japan",¥¥¥,Tempura
+325,2 Star,BEIGE Alain Ducasse,"Tokyo, Japan",¥¥¥,French
+326,2 Star,ASAHINA Gastronome,"Tokyo, Japan",¥¥¥¥,French
+327,2 Star,Kobikicho Tomoki,"Tokyo, Japan",¥¥¥¥,Sushi
+328,2 Star,Jingumae Higuchi,"Tokyo, Japan",¥¥¥¥,Japanese
+329,2 Star,ZURRIOLA,"Tokyo, Japan",¥¥¥,Spanish
+330,2 Star,Ryuzu,"Tokyo, Japan",¥¥¥,French
+331,2 Star,NARISAWA,"Tokyo, Japan",¥¥¥¥,Innovative
+332,2 Star,Sushi Yoshitake,"Tokyo, Japan",¥¥¥¥,Sushi
+333,2 Star,Ginza Shinohara,"Tokyo, Japan",¥¥¥¥,Japanese
+334,2 Star,Sushi Kanesaka,"Tokyo, Japan",¥¥¥¥,Sushi
+335,2 Star,Kutan,"Tokyo, Japan",¥¥¥¥,Japanese
+336,2 Star,Akasaka Kikunoi,"Tokyo, Japan",¥¥¥,Japanese
+337,2 Star,Bardal,"Ronda, Spain",€€€€,Creative
+338,2 Star,Amelia by Paulo Airaudo,"Donostia / San Sebastián, Spain",€€€€,Creative
+339,2 Star,El Rincón de Juan Carlos,"Adeje, Spain",€€€€,Creative
+340,2 Star,El Poblet,"Valencia, Spain",€€€€,Creative
+341,2 Star,El Molino de Urdániz,"Urdaitz, Spain",€€€€,Creative
+342,2 Star,Ramón Freixa Madrid,"Madrid, Spain",€€€€,Creative
+343,2 Star,Smoked Room,"Madrid, Spain",€€€€,Contemporary
+344,2 Star,Culler de Pau,"O Grove, Spain",€€€€,Creative
+345,2 Star,Cabaña Buenavista,"El Palmar, Spain",€€€€,Creative
+346,2 Star,Les Cols,"Olot, Spain",€€€€,Creative
+347,2 Star,Paco Roncero,"Madrid, Spain",€€€€,Creative
+348,2 Star,Miramar,"Llançà, Spain",€€€€,Creative
+349,2 Star,Ricard Camarena,"Valencia, Spain",€€€€,Creative
+350,2 Star,Skina,"Marbella, Spain",€€€€,Modern Cuisine
+351,2 Star,DSTAgE,"Madrid, Spain",€€€€,Creative
+352,2 Star,Coque,"Madrid, Spain",€€€€,Creative
+353,2 Star,BonAmb,"Xàbia, Spain",€€€€,Creative
+354,2 Star,Deessa,"Madrid, Spain",€€€€,Creative
+355,2 Star,M.B,"Guía de Isora, Spain",€€€€,Creative
+356,2 Star,Pepe Vieira,"Raxó, Spain",€€€€,Creative
+357,2 Star,Voro,"Canyamel, Spain",€€€€,Modern Cuisine
+358,2 Star,Enoteca Paco Pérez,"Barcelona, Spain",€€€€,Modern Cuisine
+359,2 Star,Maralba,"Almansa, Spain",€€€,Creative
+360,2 Star,El Portal de Echaurren,"Ezcaray, Spain",€€€€,Creative
+361,2 Star,Casa Marcial,"Arriondas, Spain",€€€€,Creative
+362,2 Star,Cinc Sentits,"Barcelona, Spain",€€€€,Creative
+363,2 Star,Mugaritz,"Errenteria, Spain",€€€€,Innovative
+364,2 Star,Iván Cerdeño,"Toledo, Spain",€€€€,Modern Cuisine
+365,2 Star,Moments,"Barcelona, Spain",€€€€,Creative
+366,2 Star,Venta Moncalvillo,"Daroca de Rioja, Spain",€€€€,Modern Cuisine
+367,2 Star,L'Escaleta,"Cocentaina, Spain",€€€€,Creative
+368,2 Star,Bo.TiC,"Corçà, Spain",€€€€,Creative
+369,2 Star,Aramburu,"Buenos Aires, Argentina",$$$$,Creative
+370,2 Star,Dewakan,"Kuala Lumpur, Malaysia",$$$,Malaysian
+371,2 Star,Ji Pin Court,"Shanghai, China Mainland",¥¥¥,Cantonese
+372,2 Star,The House of Rong,"Shanghai, China Mainland",¥¥¥¥,Taizhou
+373,2 Star,Da Vittorio,"Shanghai, China Mainland",¥¥¥¥,Italian
+374,2 Star,Bao Li Xuan,"Shanghai, China Mainland",¥¥¥¥,Cantonese
+375,2 Star,8 ½ Otto e Mezzo Bombana,"Shanghai, China Mainland",¥¥¥¥,Italian
+376,2 Star,102 House,"Shanghai, China Mainland",¥¥¥¥,Cantonese
+377,2 Star,Imperial Treasure Fine Chinese Cuisine,"Shanghai, China Mainland",¥¥¥,Cantonese
+378,2 Star,Canton 8 (Huangpu),"Shanghai, China Mainland",¥¥,Cantonese
+379,2 Star,Castel fine dining,"Tirol, Italy",€€€€,Creative
+380,2 Star,Madonnina del Pescatore,"Marzocca, Italy",€€€€,Creative
+381,2 Star,Casa Perbellini 12 Apostoli,"Verona, Italy",€€€€,Creative
+382,2 Star,daní maison,"Ischia, Italy",€€€€,Creative
+383,2 Star,Caino,"Montemerano, Italy",€€€€,Contemporary
+384,2 Star,Duomo,"Ragusa, Italy",€€€€,Contemporary
+385,2 Star,La Rei Natura by Michelangelo Mammoliti,"Serralunga d'Alba, Italy",€€€€,Creative
+386,2 Star,Verso Capitaneo,"Milan, Italy",€€€€,Creative
+387,2 Star,Gourmetstube Einhorn,"Mules, Italy",€€€€,Creative
+388,2 Star,Enoteca La Torre,"Rome, Italy",€€€€,Mediterranean Cuisine
+389,2 Star,Piccolo Lago,"Fondotoce, Italy",€€€€,Creative
+390,2 Star,Seta by Antonio Guida,"Milan, Italy",€€€€,International
+391,2 Star,La Madia,"Licata, Italy",€€€€,Creative
+392,2 Star,Andrea Aprea,"Milan, Italy",€€€€,Italian Contemporary
+393,2 Star,Glam Enrico Bartolini,"Venice, Italy",€€€€,Creative
+394,2 Star,Harry's Piccolo,"Trieste, Italy",€€€€,Italian Contemporary
+395,2 Star,Agli Amici,"Godia, Italy",€€€€,Country cooking
+396,2 Star,Torre del Saracino,"Vico Equense, Italy",€€€€,Creative
+397,2 Star,St. George by Heinz Beck,"Taormina, Italy",€€€€,Creative
+398,2 Star,Villa Feltrinelli,"Gargnano, Italy",€€€€,Creative
+399,2 Star,Piazzetta Milù,"Castellammare di Stabia, Italy",€€€€,Creative
+400,2 Star,George Restaurant,"Naples, Italy",€€€€,Contemporary
+401,2 Star,Terra The Magic Place,"Sarentino, Italy",€€€€,Creative
+402,2 Star,Magnolia,"Longiano, Italy",€€€€,Creative
+403,2 Star,Krèsios,"Telese, Italy",€€€€,Creative
+404,2 Star,Taverna Estia,"Brusciano, Italy",€€€€,Contemporary
+405,2 Star,San Domenico,"Imola, Italy",€€€€,Classic Cuisine
+406,2 Star,Arnolfo,"Colle di Val d'Elsa, Italy",€€€€,Creative
+407,2 Star,Miramonti l'Altro,"Concesio, Italy",€€€€,Italian Contemporary
+408,2 Star,Tre Olivi,"Paestum, Italy",€€€€,Creative
+409,2 Star,Locanda Sant'Uffizio Enrico Bartolini,"Cioccaro, Italy",€€€€,Piedmontese
+410,2 Star,Il Piccolo Principe,"Viareggio, Italy",€€€€,Creative
+411,2 Star,Il Pagliaccio,"Rome, Italy",€€€€,Creative
+412,2 Star,La Peca,"Lonigo, Italy",€€€€,Contemporary
+413,2 Star,Acquolina,"Rome, Italy",€€€€,Creative
+414,2 Star,D'O,"Cornaredo, Italy",€€€€,Creative
+415,2 Star,L'Olivo,"Anacapri, Italy",€€€€,Italian Contemporary
+416,2 Star,Antica Osteria Cera,"Lughetto, Italy",€€€€,Seafood
+417,2 Star,Santa Elisabetta,"Florence, Italy",€€€€,Creative
+418,2 Star,Antica Corona Reale,"Cervere, Italy",€€€€,Piedmontese
+419,2 Star,TURK FATİH TUTAK,"Istanbul, Türkiye",₺₺₺₺,Modern Cuisine
+420,2 Star,Jônt,"Washington, USA",$$$$,Contemporary
+421,2 Star,minibar,"Washington, USA",$$$$,Contemporary
+422,2 Star,Pineapple and Pearls,"Washington, USA",$$$$,Contemporary
+423,2 Star,odo,"New York, USA",$$$$,Japanese
+424,2 Star,Blue Hill at Stone Barns,"Tarrytown, USA",$$$$,American
+425,2 Star,Saga,"New York, USA",$$$$,Contemporary
+426,2 Star,The Modern,"New York, USA",$$$$,Contemporary
+427,2 Star,Sushi Noz,"New York, USA",$$$$,Japanese
+428,2 Star,Atomix,"New York, USA",$$$$,Korean
+429,2 Star,Daniel,"New York, USA",$$$$,French
+430,2 Star,Gabriel Kreuther,"New York, USA",$$$$,Contemporary
+431,2 Star,Jean-Georges,"New York, USA",$$$$,Contemporary
+432,2 Star,Atera,"New York, USA",$$$$,Contemporary
+433,2 Star,Aska,"Brooklyn, USA",$$$$,Scandinavian
+434,2 Star,Aquavit,"New York, USA",$$$$,Scandinavian
+435,2 Star,Jungsik,"New York, USA",$$$$,Korean
+436,2 Star,Oriole,"Chicago, USA",$$$$,Contemporary
+437,2 Star,Moody Tongue,"Chicago, USA",$$$$,Contemporary
+438,2 Star,Ever,"Chicago, USA",$$$$,Creative
+439,2 Star,Delta,"Athens, Greece",€€€€,Creative
+440,2 Star,Jingji,"Beijing, China Mainland",¥¥¥¥,Beijing Cuisine
+441,2 Star,Shanghai Cuisine,"Beijing, China Mainland",¥¥¥,Shanghainese
+442,2 Star,The Restaurant,"Zurich, Switzerland",€€€€,Creative
+443,2 Star,7132 Silver,"Vals, Switzerland",€€€€,Creative
+444,2 Star,roots,"Basel, Switzerland",€€€€,Modern Cuisine
+445,2 Star,Mammertsberg,"Freidorf, Switzerland",€€€€,Creative
+446,2 Star,IGNIV Zürich by Andreas Caminada,"Zurich, Switzerland",€€€€,Sharing
+447,2 Star,Widder Restaurant,"Zurich, Switzerland",€€€€,Modern French
+448,2 Star,La Brezza,"Arosa, Switzerland",€€€€,Modern Cuisine
+449,2 Star,focus ATELIER,"Vitznau, Switzerland",€€€€,Creative
+450,2 Star,Taverne zum Schäfli,"Wigoltingen, Switzerland",€€€€,Farm to table
+451,2 Star,Ecco St. Moritz,"Saint Moritz, Switzerland",€€€€,Creative
+452,2 Star,Ecco,"Ascona, Switzerland",€€€€,Creative
+453,2 Star,Stucki - Tanja Grandits,"Basel, Switzerland",€€€€,Creative
+454,2 Star,Magdalena,"Schwyz, Switzerland",€€€€,Modern Cuisine
+455,2 Star,Skin's - the restaurant,"Lenzburg, Switzerland",€€€€,Modern Cuisine
+456,2 Star,Einstein Gourmet,"Sankt Gallen, Switzerland",€€€€,Creative
+457,2 Star,Maison Wenger,"Le Noirmont, Switzerland",€€€€,Modern French
+458,2 Star,Da Vittorio,"Saint Moritz, Switzerland",€€€€,Italian
+459,2 Star,La Brezza,"Ascona, Switzerland",€€€€,Mediterranean Cuisine
+460,2 Star,IGNIV by Andreas Caminada,"Bad Ragaz, Switzerland",€€€€,Creative
+461,2 Star,The Japanese Restaurant,"Andermatt, Switzerland",€€€€,Japanese Contemporary
+462,2 Star,La Table du Lausanne Palace,"Lausanne, Switzerland",€€€€,Modern French
+463,2 Star,L'Atelier Robuchon,"Geneva, Switzerland",€€€€,French Contemporary
+464,2 Star,La Table du Valrose,"Rougemont, Switzerland",€€€€,Modern French
+465,2 Star,Stand,"Budapest, Hungary",€€€€,Modern Cuisine
+466,2 Star,Platán Gourmet,"Tata, Hungary",€€€€,Creative
+467,2 Star,De Nieuwe Winkel,"Nijmegen, Netherlands",€€€€,Organic
+468,2 Star,De Kromme Watergang,"Hoofdplaat, Netherlands",€€€€,Country cooking
+469,2 Star,Flore,"Amsterdam, Netherlands",€€€€,Contemporary
+470,2 Star,De Bokkedoorns,"Overveen, Netherlands",€€€€,Modern Cuisine
+471,2 Star,De Groene Lantaarn,"Staphorst, Netherlands",€€€€,Creative
+472,2 Star,De Lindenhof,"Giethoorn, Netherlands",€€€€,Creative
+473,2 Star,Tribeca,"Heeze, Netherlands",€€€€,Creative
+474,2 Star,'t Nonnetje,"Harderwijk, Netherlands",€€€€,Creative
+475,2 Star,De Lindehof,"Nuenen, Netherlands",€€€€,Creative
+476,2 Star,De Treeswijkhoeve,"Waalre, Netherlands",€€€€,Creative
+477,2 Star,Fred,"Rotterdam, Netherlands",€€€€,Creative French
+478,2 Star,Aan de Poel,"Amstelveen, Netherlands",€€€€,Creative
+479,2 Star,Ciel Bleu,"Amsterdam, Netherlands",€€€€,Creative
+480,2 Star,Restaurant 212,"Amsterdam, Netherlands",€€€€,Creative
+481,2 Star,Spectrum,"Amsterdam, Netherlands",€€€€,Creative
+482,2 Star,Vinkeles,"Amsterdam, Netherlands",€€€€,Creative
+483,2 Star,Parkheuvel,"Rotterdam, Netherlands",€€€€,Modern Cuisine
+484,2 Star,Brut172,"Reijmerstok, Netherlands",€€€€,Creative
+485,2 Star,FG - François Geurds,"Rotterdam, Netherlands",€€€€,Creative
+486,2 Star,Mraz & Sohn,"Vienna, Austria",€€€€,Creative
+487,2 Star,Ikarus,"Salzburg, Austria",€€€€,Creative
+488,2 Star,Steirereck im Stadtpark,"Vienna, Austria",€€€€,Creative
+489,2 Star,Silvio Nickol Gourmet Restaurant,"Vienna, Austria",€€€€,Modern Cuisine
+490,2 Star,Konstantin Filippou,"Vienna, Austria",€€€€,Modern Cuisine
+491,2 Star,SENNS.Restaurant,"Salzburg, Austria",€€€€,Creative
+492,2 Star,Jungsik,"Seoul, South Korea",₩₩₩₩,Contemporary
